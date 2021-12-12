@@ -17,7 +17,7 @@ latar tempat di kampus IPB tercinta. Di dalam game ini kita menggunakan mobil li
 ## Goals
 Semua Koin Berhasil Di Kumpulkan
 
-##How To Play
+## How To Play
 - Gunakan Tombol WASD atau Panah Untuk Menjalankan Mobil Listrik
 - Gerakkan Mouse Untuk Membantu Mengganti View Angle Camera
 
